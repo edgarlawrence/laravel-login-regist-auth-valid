@@ -1,0 +1,8 @@
+.crud-title {
+  transition: 10s ease;
+}
+.crud-title:hover {
+  font-size: 100px;
+  margin-left: 10rem;
+  background-color: green;
+}
